@@ -1,5 +1,5 @@
 // import React from "react";
-import "./Popup.css";
+import "./popup.css"
 import Icon from '/images/icon-success-check.svg'
 export const Popup = ({ text, closePopup }) => {
     return (
