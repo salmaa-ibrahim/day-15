@@ -1,0 +1,30 @@
+@font-face {
+    font-family:"Karla" ;
+    src: url(./assets/fonts/Karla-VariableFont_wght.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:"Karla" ;
+}
+
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+#root{
+    width: 100%;
+    height: 100%;
+    background-color:  hsl(148, 38%, 91%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
